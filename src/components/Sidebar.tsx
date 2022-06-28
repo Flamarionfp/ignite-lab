@@ -12,7 +12,6 @@ query MyQuery {
   }
 }
 `
-
 interface GetLessonsQueryResponse {
   lessons: Array<{
     id: string;
